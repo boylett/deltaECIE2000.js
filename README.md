@@ -1,5 +1,5 @@
 # deltaECIE2000.js
-Delta-E CIE2000 colour distance calculator ported from to Javascript from PHP:  
+[Delta-E CIE2000](https://en.wikipedia.org/wiki/Color_difference#CIEDE2000) colour distance calculator ported from to Javascript from PHP:  
 https://github.com/renasboy/php-color-difference
 
 ### Usage:
