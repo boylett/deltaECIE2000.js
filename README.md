@@ -3,6 +3,8 @@
 https://github.com/renasboy/php-color-difference
 
 ### Usage:
+```js
     var rgb1 = [255, 0, 0],
         rgb2 = [100, 0, 0],
         diff = deltaECIE2000(rgb1, rgb2);
+```
